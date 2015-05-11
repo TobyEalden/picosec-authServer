@@ -1,0 +1,461 @@
+{
+  "RjBEAiCl5QY6t3j5R696MFvH3hfrFFz8sOTjOdsXkjlPtUUGxwIgd2OiziEZ2yUCaVwe0UuM8eKyqRrQm4mQBOJvAugFgj1fMTQzMTI0MzMzNDU5NAoxNDMxMjQ2OTM0NTk0CjM0MzM0OTY5CnsiQ09aSVItQ08yIjpbImdldCJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWw2In0=": {
+    "id": "RjBEAiCl5QY6t3j5R696MFvH3hfrFFz8sOTjOdsXkjlPtUUGxwIgd2OiziEZ2yUCaVwe0UuM8eKyqRrQm4mQBOJvAugFgj1fMTQzMTI0MzMzNDU5NAoxNDMxMjQ2OTM0NTk0CjM0MzM0OTY5CnsiQ09aSVItQ08yIjpbImdldCJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWw2In0=",
+    "shortId": "RjBEAiCl5QY6t3j5R696MFvH3hfrFFz8sOTjOdsXkjlPtUUGxwIgd2OiziEZ2yUCaVwe0UuM8eKyqRrQm4mQBOJvAugFgj0g+AZJ/kgOpEbYa+tcNWjO8LNXDHKhXw8YCWwprpq/9QA=",
+    "issued": 1431243334594,
+    "expires": 1431246934594,
+    "nonce": "34334969",
+    "capability": {
+      "scope": "http://picosec.org/Trial6",
+      "resources": {
+        "COZIR-CO2": [
+          "get"
+        ]
+      }
+    }
+  },
+  "RjBEAiCWgWUbkS7d3JBIRkaRE4yftFrWi99zKp4AJM0M0r+RWQIgpBemd27/QOkD9tx3FGkt5WT9M1zs0lQMV1qK6o47BRFfMTQzMTI0MzYzNzAxNwoxNDMxMjQ3MjM3MDE3CjE3MjMzMTM0CnsiQ09aSVItQ08yIjpbImdldCJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWw1In0=": {
+    "id": "RjBEAiCWgWUbkS7d3JBIRkaRE4yftFrWi99zKp4AJM0M0r+RWQIgpBemd27/QOkD9tx3FGkt5WT9M1zs0lQMV1qK6o47BRFfMTQzMTI0MzYzNzAxNwoxNDMxMjQ3MjM3MDE3CjE3MjMzMTM0CnsiQ09aSVItQ08yIjpbImdldCJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWw1In0=",
+    "shortId": "RjBEAiCWgWUbkS7d3JBIRkaRE4yftFrWi99zKp4AJM0M0r+RWQIgpBemd27/QOkD9tx3FGkt5WT9M1zs0lQMV1qK6o47BREgIdJJp/jYhvKuVxf+Vtpj/0G3OxChmnyF8Soh8RHCYdo=",
+    "issued": 1431243637017,
+    "expires": 1431247237017,
+    "nonce": "17233134",
+    "capability": {
+      "scope": "http://picosec.org/Trial5",
+      "resources": {
+        "COZIR-CO2": [
+          "get"
+        ]
+      }
+    }
+  },
+  "RjBEAiB7Hi9H7pdjfyNWwoWDvM1iQDZ0o1Mm548L4ZsFSEPAQAIgz6PoOwoKl6KGiU5PzhUC1zzZlyf9gOSHRO5qJw1JQS9vMTQzMTI1NjgxMTEyNQoxNDMxMjYwNDExMTI1CjUzNzc4NjkwCnsiRU1PTi1UWC1Qb3dlciI6WyJnZXQiLCJzZXRfYWxhcm0iXSwiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsNCJ9": {
+    "id": "RjBEAiB7Hi9H7pdjfyNWwoWDvM1iQDZ0o1Mm548L4ZsFSEPAQAIgz6PoOwoKl6KGiU5PzhUC1zzZlyf9gOSHRO5qJw1JQS9vMTQzMTI1NjgxMTEyNQoxNDMxMjYwNDExMTI1CjUzNzc4NjkwCnsiRU1PTi1UWC1Qb3dlciI6WyJnZXQiLCJzZXRfYWxhcm0iXSwiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsNCJ9",
+    "shortId": "RjBEAiB7Hi9H7pdjfyNWwoWDvM1iQDZ0o1Mm548L4ZsFSEPAQAIgz6PoOwoKl6KGiU5PzhUC1zzZlyf9gOSHRO5qJw1JQS8gCt4sCqR16oghRLMU84TIqtV4/DMqhknfGVgntlXbOqw=",
+    "issued": 1431256811125,
+    "expires": 1431260411125,
+    "nonce": "53778690",
+    "capability": {
+      "scope": "http://picosec.org/Trial4",
+      "resources": {
+        "EMON-TX-Power": [
+          "get",
+          "set_alarm"
+        ]
+      }
+    }
+  },
+  "RjBEAiBgDoAXA/Wl3wS6BDNllLNFJK6ARihX/geZN6OiOHmi6wIgwp64PiYgbK8wpQF1qjGBC3P8/usssfbnFd7sZ9hvfTWApTE0MzEyNTcwNTE5MzQKMTQzMTI2MDY1MTkzNAo3Mjc3MTQ1Mgp7IkNPWklSLUNPMiI6WyJjYWxpYnJhdGUiLCJnZXQiXSwiQ09aSVItVGVtcGVyYXR1cmUiOlsiZ2V0Il0sIkVNT04tVEgtVGVtcGVyYXR1cmUiOlsiZ2V0Il0sIiRzY29wZSI6Imh0dHA6Ly9waWNvc2VjLm9yZy9UcmlhbDMifQ==": {
+    "id": "RjBEAiBgDoAXA/Wl3wS6BDNllLNFJK6ARihX/geZN6OiOHmi6wIgwp64PiYgbK8wpQF1qjGBC3P8/usssfbnFd7sZ9hvfTWApTE0MzEyNTcwNTE5MzQKMTQzMTI2MDY1MTkzNAo3Mjc3MTQ1Mgp7IkNPWklSLUNPMiI6WyJjYWxpYnJhdGUiLCJnZXQiXSwiQ09aSVItVGVtcGVyYXR1cmUiOlsiZ2V0Il0sIkVNT04tVEgtVGVtcGVyYXR1cmUiOlsiZ2V0Il0sIiRzY29wZSI6Imh0dHA6Ly9waWNvc2VjLm9yZy9UcmlhbDMifQ==",
+    "shortId": "RjBEAiBgDoAXA/Wl3wS6BDNllLNFJK6ARihX/geZN6OiOHmi6wIgwp64PiYgbK8wpQF1qjGBC3P8/usssfbnFd7sZ9hvfTUgCYU1NnheIy4NwIpWpqXzlnHh9KyswAfNh2o5cqEcTFs=",
+    "issued": 1431257051934,
+    "expires": 1431260651934,
+    "nonce": "72771452",
+    "capability": {
+      "scope": "http://picosec.org/Trial3",
+      "resources": {
+        "COZIR-CO2": [
+          "calibrate",
+          "get"
+        ],
+        "COZIR-Temperature": [
+          "get"
+        ],
+        "EMON-TH-Temperature": [
+          "get"
+        ]
+      }
+    }
+  },
+  "RjBEAiBXPx/CpSaM0vC/TXtH3iSAesGMwLrAIYYLH67iUtDaDwIgsEwsDdUKbcnAUMLj17R17YeYuJRG/soDeJqZiooMixprMTQzMTI4MDAzOTY2NAoxNDMxMjgzNjM5NjY0CjUyNTg4NjA0CnsiQ09aSVItQ08yIjpbImNhbGlicmF0ZSIsImdldCJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWwzIn0=": {
+    "id": "RjBEAiBXPx/CpSaM0vC/TXtH3iSAesGMwLrAIYYLH67iUtDaDwIgsEwsDdUKbcnAUMLj17R17YeYuJRG/soDeJqZiooMixprMTQzMTI4MDAzOTY2NAoxNDMxMjgzNjM5NjY0CjUyNTg4NjA0CnsiQ09aSVItQ08yIjpbImNhbGlicmF0ZSIsImdldCJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWwzIn0=",
+    "shortId": "RjBEAiBXPx/CpSaM0vC/TXtH3iSAesGMwLrAIYYLH67iUtDaDwIgsEwsDdUKbcnAUMLj17R17YeYuJRG/soDeJqZiooMixog0CcyoEJ7ybAZQuJqYZDI+fJBqIu14oXNnSfxZzgIu/k=",
+    "issued": 1431280039664,
+    "expires": 1431283639664,
+    "nonce": "52588604",
+    "capability": {
+      "scope": "http://picosec.org/Trial3",
+      "resources": {
+        "COZIR-CO2": [
+          "calibrate",
+          "get"
+        ]
+      }
+    }
+  },
+  "RjBEAiDVQMP/C70SWgnnkQSiQKJ7b317sVfRNehjWpExFsyOMQIgml63qcXe8fRm0gBrn4Q4VF8oJOa6mqGOAAd6d0ZoD2WAgzE0MzEyODAxNTQ3NjkKMTQzMTI4Mzc1NDc2OQo0NjI2MjMxMQp7IkNPWklSLUNPMiI6WyJnZXQiXSwiRU1PTi1UWC1Qb3dlciI6WyJnZXQiLCJzZXRfYWxhcm0iXSwiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsMSJ9": {
+    "id": "RjBEAiDVQMP/C70SWgnnkQSiQKJ7b317sVfRNehjWpExFsyOMQIgml63qcXe8fRm0gBrn4Q4VF8oJOa6mqGOAAd6d0ZoD2WAgzE0MzEyODAxNTQ3NjkKMTQzMTI4Mzc1NDc2OQo0NjI2MjMxMQp7IkNPWklSLUNPMiI6WyJnZXQiXSwiRU1PTi1UWC1Qb3dlciI6WyJnZXQiLCJzZXRfYWxhcm0iXSwiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsMSJ9",
+    "shortId": "RjBEAiDVQMP/C70SWgnnkQSiQKJ7b317sVfRNehjWpExFsyOMQIgml63qcXe8fRm0gBrn4Q4VF8oJOa6mqGOAAd6d0ZoD2UgbUzk04EYYlzEgt8fqTAG2qDbyH6BCRqxQ4pVAEQcrmE=",
+    "issued": 1431280154769,
+    "expires": 1431283754769,
+    "nonce": "46262311",
+    "capability": {
+      "scope": "http://picosec.org/Trial1",
+      "resources": {
+        "COZIR-CO2": [
+          "get"
+        ],
+        "EMON-TX-Power": [
+          "get",
+          "set_alarm"
+        ]
+      }
+    }
+  },
+  "RjBEAiDP9+fUlrT8zAMQqOg6cWtNsKTvUhJ7DL8/N9gvQ1uuCgIgYokIMsuLMjlr4551NbtDnc4JvrcjHktsyZcvFfMpX5dkMTQzMTI4NjcxMDQ0OQoxNDMxMjkwMzEwNDQ5CjM2OTgxNDUyCnsiQ09aSVItSHVtaWRpdHkiOlsiZ2V0Il0sIiRzY29wZSI6Imh0dHA6Ly9waWNvc2VjLm9yZy9UcmlhbDMifQ==": {
+    "id": "RjBEAiDP9+fUlrT8zAMQqOg6cWtNsKTvUhJ7DL8/N9gvQ1uuCgIgYokIMsuLMjlr4551NbtDnc4JvrcjHktsyZcvFfMpX5dkMTQzMTI4NjcxMDQ0OQoxNDMxMjkwMzEwNDQ5CjM2OTgxNDUyCnsiQ09aSVItSHVtaWRpdHkiOlsiZ2V0Il0sIiRzY29wZSI6Imh0dHA6Ly9waWNvc2VjLm9yZy9UcmlhbDMifQ==",
+    "shortId": "RjBEAiDP9+fUlrT8zAMQqOg6cWtNsKTvUhJ7DL8/N9gvQ1uuCgIgYokIMsuLMjlr4551NbtDnc4JvrcjHktsyZcvFfMpX5cg9C9Wb5X/vKVZ+ihVFHHRwYcA4TSl5yMLoxWQhHcFYKM=",
+    "issued": 1431286710449,
+    "expires": 1431290310449,
+    "nonce": "36981452",
+    "capability": {
+      "scope": "http://picosec.org/Trial3",
+      "resources": {
+        "COZIR-Humidity": [
+          "get"
+        ]
+      }
+    }
+  },
+  "RjBEAiCh0M3UQ4ZKf1Ww/GAzzJzSfQjxMOpYc4MD2YOSZo5DPwIgkBc2AxFDZkBhXSZBCmGqEBc7v69c4GIrpn/RsSBAfXkzMTQzMTI5MjE0MzY0OQoxNDMxMjk1NzQzNjQ5CjkzNDQzMDAyCnsiJHNjb3BlIjoiKiJ9": {
+    "id": "RjBEAiCh0M3UQ4ZKf1Ww/GAzzJzSfQjxMOpYc4MD2YOSZo5DPwIgkBc2AxFDZkBhXSZBCmGqEBc7v69c4GIrpn/RsSBAfXkzMTQzMTI5MjE0MzY0OQoxNDMxMjk1NzQzNjQ5CjkzNDQzMDAyCnsiJHNjb3BlIjoiKiJ9",
+    "shortId": "RjBEAiCh0M3UQ4ZKf1Ww/GAzzJzSfQjxMOpYc4MD2YOSZo5DPwIgkBc2AxFDZkBhXSZBCmGqEBc7v69c4GIrpn/RsSBAfXkgQoabwehWZF1wm4iKwOVN1rs8/ZUzWG19cx+UTx9n0Mc=",
+    "issued": 1431292143649,
+    "expires": 1431295743649,
+    "nonce": "93443002",
+    "capability": {
+      "scope": "*",
+      "resources": {}
+    }
+  },
+  "RjBEAiDynBwrUOEI2+w01RKplr4PNVai6u6TwuHHiD06DwK0gQIgb7+my5FCPXy+VoUC0uHEr5HcJt3qIei1Fr07XNv9ScpfMTQzMTI5MjI5NzE2MwoxNDMxMjk1ODk3MTYzCjI3NzU5MDg2CnsiQ09aSVItQ08yIjpbImdldCJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWw2In0=": {
+    "id": "RjBEAiDynBwrUOEI2+w01RKplr4PNVai6u6TwuHHiD06DwK0gQIgb7+my5FCPXy+VoUC0uHEr5HcJt3qIei1Fr07XNv9ScpfMTQzMTI5MjI5NzE2MwoxNDMxMjk1ODk3MTYzCjI3NzU5MDg2CnsiQ09aSVItQ08yIjpbImdldCJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWw2In0=",
+    "shortId": "RjBEAiDynBwrUOEI2+w01RKplr4PNVai6u6TwuHHiD06DwK0gQIgb7+my5FCPXy+VoUC0uHEr5HcJt3qIei1Fr07XNv9ScogSRBh5QaJ629RPjUOEndF59bd+mu/V1wSt87ft4t+J7o=",
+    "issued": 1431292297163,
+    "expires": 1431295897163,
+    "nonce": "27759086",
+    "capability": {
+      "scope": "http://picosec.org/Trial6",
+      "resources": {
+        "COZIR-CO2": [
+          "get"
+        ]
+      }
+    },
+    "subject": "time test"
+  },
+  "RjBEAiDo5Zp6+YCtd5N16nW9Jf7rcQYbDP61c5UALxtJALXrHwIg7KaKe/MI77eqsNlcSetbS4XUPVfiHDmpX9tGZYNlSdBpMTQzMTI5MjkxNDE1MQoxNDMxMjk2NTE0MTUxCjU4NzQ0NjMwCnsiRU1PTi1USC1UZW1wZXJhdHVyZSI6WyJnZXQiXSwiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsMyJ9": {
+    "id": "RjBEAiDo5Zp6+YCtd5N16nW9Jf7rcQYbDP61c5UALxtJALXrHwIg7KaKe/MI77eqsNlcSetbS4XUPVfiHDmpX9tGZYNlSdBpMTQzMTI5MjkxNDE1MQoxNDMxMjk2NTE0MTUxCjU4NzQ0NjMwCnsiRU1PTi1USC1UZW1wZXJhdHVyZSI6WyJnZXQiXSwiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsMyJ9",
+    "shortId": "RjBEAiDo5Zp6+YCtd5N16nW9Jf7rcQYbDP61c5UALxtJALXrHwIg7KaKe/MI77eqsNlcSetbS4XUPVfiHDmpX9tGZYNlSdAg7/v4js62qIwcODMmBNaGK62w6KQWRtShwzK08rKu8UU=",
+    "issued": 1431292914151,
+    "expires": 1431296514151,
+    "nonce": "58744630",
+    "capability": {
+      "scope": "http://picosec.org/Trial3",
+      "resources": {
+        "EMON-TH-Temperature": [
+          "get"
+        ]
+      }
+    },
+    "subject": "refresh test"
+  },
+  "RjBEAiB0+HzzMDL0OY0+9SWmRiCa6U6fptXirPuYjBL/VNMH1gIgqlQrN3w+NItvROTJkJTH41RaM/9f+W0xZwa1MEGNjQxYMTQzMTI5NDc5ODM0MgoxNDMxMjk4Mzk4MzQyCjQ1OTI5MTQ2CnsiW2FueV0iOlsiIl0sIiRzY29wZSI6Imh0dHA6Ly9waWNvc2VjLm9yZy9UcmlhbDMifQ==": {
+    "id": "RjBEAiB0+HzzMDL0OY0+9SWmRiCa6U6fptXirPuYjBL/VNMH1gIgqlQrN3w+NItvROTJkJTH41RaM/9f+W0xZwa1MEGNjQxYMTQzMTI5NDc5ODM0MgoxNDMxMjk4Mzk4MzQyCjQ1OTI5MTQ2CnsiW2FueV0iOlsiIl0sIiRzY29wZSI6Imh0dHA6Ly9waWNvc2VjLm9yZy9UcmlhbDMifQ==",
+    "shortId": "RjBEAiB0+HzzMDL0OY0+9SWmRiCa6U6fptXirPuYjBL/VNMH1gIgqlQrN3w+NItvROTJkJTH41RaM/9f+W0xZwa1MEGNjQwgUEv8BWH8lodktc8IdhKhEBxSLO2GYbQStSsA+G7m8lM=",
+    "issued": 1431294798342,
+    "expires": 1431298398342,
+    "nonce": "45929146",
+    "capability": {
+      "scope": "http://picosec.org/Trial3",
+      "resources": {
+        "[any]": [
+          ""
+        ]
+      }
+    },
+    "subject": "date test"
+  },
+  "RjBEAiAa7+XR0fRrzBDIQzTE3Po06CjK5Cqi+VqsEO6I7GEU1QIgxJCYSL25b4jy4oBmhoKBeJ+6uWTs3QDz1FGaqcG9gb5pMTQzMTI5NTQyOTQwNgoxNDMxMjk5MDI5NDA2CjQ2NjIwNzQ1CnsiRU1PTi1USC1UZW1wZXJhdHVyZSI6WyJnZXQiXSwiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsNSJ9": {
+    "id": "RjBEAiAa7+XR0fRrzBDIQzTE3Po06CjK5Cqi+VqsEO6I7GEU1QIgxJCYSL25b4jy4oBmhoKBeJ+6uWTs3QDz1FGaqcG9gb5pMTQzMTI5NTQyOTQwNgoxNDMxMjk5MDI5NDA2CjQ2NjIwNzQ1CnsiRU1PTi1USC1UZW1wZXJhdHVyZSI6WyJnZXQiXSwiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsNSJ9",
+    "shortId": "RjBEAiAa7+XR0fRrzBDIQzTE3Po06CjK5Cqi+VqsEO6I7GEU1QIgxJCYSL25b4jy4oBmhoKBeJ+6uWTs3QDz1FGaqcG9gb4gk+toNJbE8HKzauD/uh55Fg+PGW1k2+Y/N1tRWy1MVi8=",
+    "issued": 1431295429406,
+    "expires": 1431299029406,
+    "nonce": "46620745",
+    "capability": {
+      "scope": "http://picosec.org/Trial5",
+      "resources": {
+        "EMON-TH-Temperature": [
+          "get"
+        ]
+      }
+    },
+    "subject": "another date test"
+  },
+  "RjBEAiAySD335BBUGJfvJM68dEhB6jq1s/E5XU375z1+goLW5wIgcAVVZLxL3zEsBbu4eT+djx8K1I2BqwaElj1vs8AlmlBkMTQzMTI5NTU1MjkzOAoxNDMxMjk5MTUyOTM4CjMzMzM4NTk1CnsiQ09aSVItSHVtaWRpdHkiOlsiZ2V0Il0sIiRzY29wZSI6Imh0dHA6Ly9waWNvc2VjLm9yZy9UcmlhbDQifQ==": {
+    "id": "RjBEAiAySD335BBUGJfvJM68dEhB6jq1s/E5XU375z1+goLW5wIgcAVVZLxL3zEsBbu4eT+djx8K1I2BqwaElj1vs8AlmlBkMTQzMTI5NTU1MjkzOAoxNDMxMjk5MTUyOTM4CjMzMzM4NTk1CnsiQ09aSVItSHVtaWRpdHkiOlsiZ2V0Il0sIiRzY29wZSI6Imh0dHA6Ly9waWNvc2VjLm9yZy9UcmlhbDQifQ==",
+    "shortId": "RjBEAiAySD335BBUGJfvJM68dEhB6jq1s/E5XU375z1+goLW5wIgcAVVZLxL3zEsBbu4eT+djx8K1I2BqwaElj1vs8AlmlAgq5hlvKDWakAKb+Recxa/P7ca6XMix4JN7perp7e4pm0=",
+    "issued": 1431295552938,
+    "expires": 1431299152938,
+    "nonce": "33338595",
+    "capability": {
+      "scope": "http://picosec.org/Trial4",
+      "resources": {
+        "COZIR-Humidity": [
+          "get"
+        ]
+      }
+    },
+    "subject": "d test"
+  },
+  "RjBEAiD7g/2K6lV+6StQ8eqZqEhiguX+EcVXBu17K3ZsJiE7HgIgxrEFAFlcCU5xasGtjmMfWpkblCmy3epl2lSvpPL8nhBkMTQzMTI5NTY1MjI1MgoxNDMyOTQwNDA3Nzk1CjU3NDg4MzIzCnsiQ09aSVItSHVtaWRpdHkiOlsiZ2V0Il0sIiRzY29wZSI6Imh0dHA6Ly9waWNvc2VjLm9yZy9UcmlhbDMifQ==": {
+    "id": "RjBEAiD7g/2K6lV+6StQ8eqZqEhiguX+EcVXBu17K3ZsJiE7HgIgxrEFAFlcCU5xasGtjmMfWpkblCmy3epl2lSvpPL8nhBkMTQzMTI5NTY1MjI1MgoxNDMyOTQwNDA3Nzk1CjU3NDg4MzIzCnsiQ09aSVItSHVtaWRpdHkiOlsiZ2V0Il0sIiRzY29wZSI6Imh0dHA6Ly9waWNvc2VjLm9yZy9UcmlhbDMifQ==",
+    "shortId": "RjBEAiD7g/2K6lV+6StQ8eqZqEhiguX+EcVXBu17K3ZsJiE7HgIgxrEFAFlcCU5xasGtjmMfWpkblCmy3epl2lSvpPL8nhAgaUr6kCYevxPyg7+dL2V1Tnuk1qfvFE0VLMrznAonnKA=",
+    "issued": 1431295652252,
+    "expires": 1432940407795,
+    "nonce": "57488323",
+    "capability": {
+      "scope": "http://picosec.org/Trial3",
+      "resources": {
+        "COZIR-Humidity": [
+          "get"
+        ]
+      }
+    },
+    "subject": "d2 final"
+  },
+  "RjBEAiD7I1M/gr8+g00A18Al4gKh8bL8d/f0r1EzkK1vInHEKQIgpPJdUx0k1u2kqxPa29CGTaRkQ+bN6GzpdzQPNF2olY5lMTQzMTI5NTk4NTM1NgoxNDMxMzAyNDMyNTU3CjE2NDkzNTMzCnsiQ09aSVItQ08yIjpbImNhbGlicmF0ZSJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWwyIn0=": {
+    "id": "RjBEAiD7I1M/gr8+g00A18Al4gKh8bL8d/f0r1EzkK1vInHEKQIgpPJdUx0k1u2kqxPa29CGTaRkQ+bN6GzpdzQPNF2olY5lMTQzMTI5NTk4NTM1NgoxNDMxMzAyNDMyNTU3CjE2NDkzNTMzCnsiQ09aSVItQ08yIjpbImNhbGlicmF0ZSJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWwyIn0=",
+    "shortId": "RjBEAiD7I1M/gr8+g00A18Al4gKh8bL8d/f0r1EzkK1vInHEKQIgpPJdUx0k1u2kqxPa29CGTaRkQ+bN6GzpdzQPNF2olY4gU6bqM6feQkEBWMfEC0GuTClYzRCGFTPKgdBWoCG7Y+g=",
+    "issued": 1431295985356,
+    "expires": 1431302432557,
+    "nonce": "16493533",
+    "capability": {
+      "scope": "http://picosec.org/Trial2",
+      "resources": {
+        "COZIR-CO2": [
+          "calibrate"
+        ]
+      }
+    },
+    "subject": "expires Monday"
+  },
+  "RjBEAiCBkYGzhOHC1Dah+GoatlUgXC4hZ4Rp7F0rmfCGghCGwgIgVcliVBDRRnXMAoIro9aYhpKimZyPlLii/FL2ZuntgBxfMTQzMTI5ODQ4OTYzOQoxNDMxMjk4NTQ5NjM4CjQ3NjU0NDMzCnsiQ09aSVItQ08yIjpbImdldCJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWw2In0=": {
+    "id": "RjBEAiCBkYGzhOHC1Dah+GoatlUgXC4hZ4Rp7F0rmfCGghCGwgIgVcliVBDRRnXMAoIro9aYhpKimZyPlLii/FL2ZuntgBxfMTQzMTI5ODQ4OTYzOQoxNDMxMjk4NTQ5NjM4CjQ3NjU0NDMzCnsiQ09aSVItQ08yIjpbImdldCJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWw2In0=",
+    "shortId": "RjBEAiCBkYGzhOHC1Dah+GoatlUgXC4hZ4Rp7F0rmfCGghCGwgIgVcliVBDRRnXMAoIro9aYhpKimZyPlLii/FL2ZuntgBwg0yeVZ8+cgIEnVzvtUGuCJRAqHG5gthsefGB8LLUzJpw=",
+    "issued": 1431298489639,
+    "expires": 1431298549638,
+    "nonce": "47654433",
+    "capability": {
+      "scope": "http://picosec.org/Trial6",
+      "resources": {
+        "COZIR-CO2": [
+          "get"
+        ]
+      }
+    },
+    "subject": "demo"
+  },
+  "RjBEAiCJVky9sPv4Z6eI7xivS9CXNwvF6E7hqNNr49isz/y2OAIgTAC97HnkkYT2FoN1yP1qsZrwddY0VME2nVJUhyB6lkFfMTQzMTM0NTk5MTc0NgoxNDMxMzQ2NTkxNzQ2CjY0ODUwMTU0CnsiQ09aSVItQ08yIjpbImdldCJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWw2In0=": {
+    "id": "RjBEAiCJVky9sPv4Z6eI7xivS9CXNwvF6E7hqNNr49isz/y2OAIgTAC97HnkkYT2FoN1yP1qsZrwddY0VME2nVJUhyB6lkFfMTQzMTM0NTk5MTc0NgoxNDMxMzQ2NTkxNzQ2CjY0ODUwMTU0CnsiQ09aSVItQ08yIjpbImdldCJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWw2In0=",
+    "shortId": "RjBEAiCJVky9sPv4Z6eI7xivS9CXNwvF6E7hqNNr49isz/y2OAIgTAC97HnkkYT2FoN1yP1qsZrwddY0VME2nVJUhyB6lkEg4cDXtWRf2FzYqmlEK6hUAqWA4UcsNLnYpm4pcigLeY0=",
+    "issued": 1431345991746,
+    "expires": 1431346591746,
+    "nonce": "64850154",
+    "capability": {
+      "scope": "http://picosec.org/Trial6",
+      "resources": {
+        "COZIR-CO2": [
+          "get"
+        ]
+      }
+    },
+    "subject": "expires in 10"
+  },
+  "RjBEAiAOcVkFqUui2wRMYT6nN6aexCOB7n3cJM/kjHDwvgMzqgIg9UfphoSMTAgMM2nhwjFB3f6zw3OJIVl3PSQ+kuC6V6t3MTQzMTM1MDU3MzQ4NwoxNDMxMzUxNTMzNDg3CjUzMTIxNDE5CnsiQ09aSVItQ08yIjpbImNhbGlicmF0ZSIsImdldCIsInN1YnNjcmliZSJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWw0In0=": {
+    "id": "RjBEAiAOcVkFqUui2wRMYT6nN6aexCOB7n3cJM/kjHDwvgMzqgIg9UfphoSMTAgMM2nhwjFB3f6zw3OJIVl3PSQ+kuC6V6t3MTQzMTM1MDU3MzQ4NwoxNDMxMzUxNTMzNDg3CjUzMTIxNDE5CnsiQ09aSVItQ08yIjpbImNhbGlicmF0ZSIsImdldCIsInN1YnNjcmliZSJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWw0In0=",
+    "shortId": "RjBEAiAOcVkFqUui2wRMYT6nN6aexCOB7n3cJM/kjHDwvgMzqgIg9UfphoSMTAgMM2nhwjFB3f6zw3OJIVl3PSQ+kuC6V6sggoJaGvxOwJxSoTLeZ1U7XUX/w7dYgq/HA1wbGp5VCB8=",
+    "issued": 1431350573487,
+    "expires": 1431351533487,
+    "nonce": "53121419",
+    "capability": {
+      "scope": "http://picosec.org/Trial4",
+      "resources": {
+        "COZIR-CO2": [
+          "calibrate",
+          "get",
+          "subscribe"
+        ]
+      }
+    },
+    "subject": "Trial 4 COZIR-CO2"
+  },
+  "RjBEAiAQr0WVppbcpRtavCX+CWjpM67I0smI/feMt4XVyO5D5wIgtikP4m0N4OIACRaC7VeQ7gj81liT+v2cAueeD7yhorVrMTQzMTM1NDM1MTgyMAoxNDMxMzU0OTUxODIwCjIxNTQzMTk3CnsiQ09aSVItQ08yIjpbImNhbGlicmF0ZSIsImdldCJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWw2In0=": {
+    "id": "RjBEAiAQr0WVppbcpRtavCX+CWjpM67I0smI/feMt4XVyO5D5wIgtikP4m0N4OIACRaC7VeQ7gj81liT+v2cAueeD7yhorVrMTQzMTM1NDM1MTgyMAoxNDMxMzU0OTUxODIwCjIxNTQzMTk3CnsiQ09aSVItQ08yIjpbImNhbGlicmF0ZSIsImdldCJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWw2In0=",
+    "shortId": "RjBEAiAQr0WVppbcpRtavCX+CWjpM67I0smI/feMt4XVyO5D5wIgtikP4m0N4OIACRaC7VeQ7gj81liT+v2cAueeD7yhorUgVOpXSwm78tflTX0knazx/RxDGqBxNhbglpdAEpu9ALA=",
+    "issued": 1431354351820,
+    "expires": 1431354951820,
+    "nonce": "21543197",
+    "capability": {
+      "scope": "http://picosec.org/Trial6",
+      "resources": {
+        "COZIR-CO2": [
+          "calibrate",
+          "get"
+        ]
+      }
+    },
+    "subject": "pre commit test"
+  },
+  "RjBEAiDaqvFNHU1MwBEdizCCW765r7er5MLUKvBsCEUI9thvdAIg1re4LhWdQfiYOA38LIHclNsuZ7QNaxWiwwhJ6qg5Mg+AmzE0MzEzNTU3NzMzMzYKMTQzMTM4ODgwMjAyOQo0NzE0MDU4NAp7IkNPWklSLUNPMiI6WyJjYWxpYnJhdGUiXSwiQ09aSVItVGVtcGVyYXR1cmUiOlsiZ2V0Il0sIkVNT04tVFgtUG93ZXIiOlsiW2FueV0iXSwiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsNiJ9": {
+    "id": "RjBEAiDaqvFNHU1MwBEdizCCW765r7er5MLUKvBsCEUI9thvdAIg1re4LhWdQfiYOA38LIHclNsuZ7QNaxWiwwhJ6qg5Mg+AmzE0MzEzNTU3NzMzMzYKMTQzMTM4ODgwMjAyOQo0NzE0MDU4NAp7IkNPWklSLUNPMiI6WyJjYWxpYnJhdGUiXSwiQ09aSVItVGVtcGVyYXR1cmUiOlsiZ2V0Il0sIkVNT04tVFgtUG93ZXIiOlsiW2FueV0iXSwiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsNiJ9",
+    "shortId": "RjBEAiDaqvFNHU1MwBEdizCCW765r7er5MLUKvBsCEUI9thvdAIg1re4LhWdQfiYOA38LIHclNsuZ7QNaxWiwwhJ6qg5Mg8gUFbK8QkLyccQQ9kBeotDNgquEpXTg6k0R2x3JYcqRAc=",
+    "issued": 1431355773336,
+    "expires": 1431388802029,
+    "nonce": "47140584",
+    "capability": {
+      "scope": "http://picosec.org/Trial6",
+      "resources": {
+        "COZIR-CO2": [
+          "calibrate"
+        ],
+        "COZIR-Temperature": [
+          "get"
+        ],
+        "EMON-TX-Power": [
+          "[any]"
+        ]
+      }
+    },
+    "subject": "combined test"
+  },
+  "RjBEAiDIFvl5zDE+EEosesAFxK324gsI0jh20q2IuIMea5K2aQIgrBbx+Vb8ZF5kcM+sPjeCIniBUdkqSfcEsZDOgkRvBzdsMTQzMTM1NTkxMjg1OAoxNDMxMzg4ODIzNjQxCjIzNjUxODE5CnsiKiI6WyIqIl0sIkNPWklSLUh1bWlkaXR5IjpbIioiXSwiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsNiJ9": {
+    "id": "RjBEAiDIFvl5zDE+EEosesAFxK324gsI0jh20q2IuIMea5K2aQIgrBbx+Vb8ZF5kcM+sPjeCIniBUdkqSfcEsZDOgkRvBzdsMTQzMTM1NTkxMjg1OAoxNDMxMzg4ODIzNjQxCjIzNjUxODE5CnsiKiI6WyIqIl0sIkNPWklSLUh1bWlkaXR5IjpbIioiXSwiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsNiJ9",
+    "shortId": "RjBEAiDIFvl5zDE+EEosesAFxK324gsI0jh20q2IuIMea5K2aQIgrBbx+Vb8ZF5kcM+sPjeCIniBUdkqSfcEsZDOgkRvBzcgBF0G3aeHUahS7z2d5mc8i0rGY7RMSPBhmRFKiO+eEx8=",
+    "issued": 1431355912858,
+    "expires": 1431388823641,
+    "nonce": "23651819",
+    "capability": {
+      "scope": "http://picosec.org/Trial6",
+      "resources": {
+        "*": [
+          "*"
+        ],
+        "COZIR-Humidity": [
+          "*"
+        ]
+      }
+    },
+    "subject": "wildcard test"
+  },
+  "RjBEAiDzE6gJJmUaT1duekLk1dwd3pAUycNSSKASe2SAjBjNIAIgNSDmMt3tbheOI5PaG/iN1zxSoht7BoMkglxSM8nUqqc8MTQzMTM1NTkzNjU2MgoxNDMxMzU2NTM2NTYyCjkwMTE5MjU4CnsiKiI6WyIiXSwiJHNjb3BlIjoiKiJ9": {
+    "id": "RjBEAiDzE6gJJmUaT1duekLk1dwd3pAUycNSSKASe2SAjBjNIAIgNSDmMt3tbheOI5PaG/iN1zxSoht7BoMkglxSM8nUqqc8MTQzMTM1NTkzNjU2MgoxNDMxMzU2NTM2NTYyCjkwMTE5MjU4CnsiKiI6WyIiXSwiJHNjb3BlIjoiKiJ9",
+    "shortId": "RjBEAiDzE6gJJmUaT1duekLk1dwd3pAUycNSSKASe2SAjBjNIAIgNSDmMt3tbheOI5PaG/iN1zxSoht7BoMkglxSM8nUqqcgVvN+Z/QlW9Xv7Md5mOESIshGwufJPCAfWLTILJrXr9Q=",
+    "issued": 1431355936562,
+    "expires": 1431356536562,
+    "nonce": "90119258",
+    "capability": {
+      "scope": "*",
+      "resources": {
+        "*": [
+          ""
+        ]
+      }
+    },
+    "subject": "another wildcard test"
+  },
+  "RjBEAiC4k+aakGVi8xU+zPxYg2NBWRfZxbsrmVOdG3MTa6wHzAIgI/Uwxo/oPLPjVUJvWhKFRvpI0coxbNnEPnsao8u0FdU9MTQzMTM1NjI5Njg3NwoxNDMxMzg4ODA1NDA4Cjg4NTkyODkwCnsiKiI6WyIqIl0sIiRzY29wZSI6IioifQ==": {
+    "id": "RjBEAiC4k+aakGVi8xU+zPxYg2NBWRfZxbsrmVOdG3MTa6wHzAIgI/Uwxo/oPLPjVUJvWhKFRvpI0coxbNnEPnsao8u0FdU9MTQzMTM1NjI5Njg3NwoxNDMxMzg4ODA1NDA4Cjg4NTkyODkwCnsiKiI6WyIqIl0sIiRzY29wZSI6IioifQ==",
+    "shortId": "RjBEAiC4k+aakGVi8xU+zPxYg2NBWRfZxbsrmVOdG3MTa6wHzAIgI/Uwxo/oPLPjVUJvWhKFRvpI0coxbNnEPnsao8u0FdUgqTQJN/eYWmjZD+kcVU70SaRyrhgQ1q6c7ofg4V1icnY=",
+    "issued": 1431356296877,
+    "expires": 1431388805408,
+    "nonce": "88592890",
+    "capability": {
+      "scope": "*",
+      "resources": {
+        "*": [
+          "*"
+        ]
+      }
+    },
+    "subject": "complete wildcard"
+  },
+  "RjBEAiDFXvGRvFDKNkha80R4xgWgO6FNQdHjsjptSIdGkqhJSQIgpG4JVgEQYTpO3a5YEWuSppTCQR4PO2//gD+xSGF0H3dLMTQzMTM1NjMzNjY3MQoxNDMxMzU2OTM2NjcxCjUyNjIwODI0CnsiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsNiJ9": {
+    "id": "RjBEAiDFXvGRvFDKNkha80R4xgWgO6FNQdHjsjptSIdGkqhJSQIgpG4JVgEQYTpO3a5YEWuSppTCQR4PO2//gD+xSGF0H3dLMTQzMTM1NjMzNjY3MQoxNDMxMzU2OTM2NjcxCjUyNjIwODI0CnsiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsNiJ9",
+    "shortId": "RjBEAiDFXvGRvFDKNkha80R4xgWgO6FNQdHjsjptSIdGkqhJSQIgpG4JVgEQYTpO3a5YEWuSppTCQR4PO2//gD+xSGF0H3cgNPDZ17slCSuPpFUfWoHBjJ5MG6xNlRSGv3o7+LqGyGo=",
+    "issued": 1431356336671,
+    "expires": 1431356936671,
+    "nonce": "52620824",
+    "capability": {
+      "scope": "http://picosec.org/Trial6",
+      "resources": {}
+    },
+    "subject": "Anything on Trial 6"
+  },
+  "RjBEAiCUeSB240AJFn8yPYC068zkxcgBNp0xH1B3xl0gqv3rywIg3JouHI4IOsE3H261slT4hhFPNGUVVqQeDGCYfduedaRLMTQzMTM1NzMyNjg5MwoxNDMxMzU3OTI2ODkzCjcwODc3NTQ5CnsiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsMyJ9": {
+    "id": "RjBEAiCUeSB240AJFn8yPYC068zkxcgBNp0xH1B3xl0gqv3rywIg3JouHI4IOsE3H261slT4hhFPNGUVVqQeDGCYfduedaRLMTQzMTM1NzMyNjg5MwoxNDMxMzU3OTI2ODkzCjcwODc3NTQ5CnsiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsMyJ9",
+    "shortId": "RjBEAiCUeSB240AJFn8yPYC068zkxcgBNp0xH1B3xl0gqv3rywIg3JouHI4IOsE3H261slT4hhFPNGUVVqQeDGCYfduedaQgNZ58ZiutQICdSCXxcqKdSxVGKffZkqmWnsRAgr6ARUg=",
+    "issued": 1431357326893,
+    "expires": 1431357926893,
+    "nonce": "70877549",
+    "capability": {
+      "scope": "http://picosec.org/Trial3",
+      "resources": {}
+    },
+    "subject": "new redirect test"
+  },
+  "RjBEAiBPeC4JfTYCZ2MMhXhH5r6Qy5Zl/OzU2GWV/b1LdyDe7gIgZEvIhOhVPCn3Xlsr5sRLNg+91TFKyqKHJ9PyT/CtZZFhMTQzMTM1NzM4MjYzNwoxNDMxMzU3OTgyNjM3CjM4NzMyNTAwCnsiRU1PTi1UWC1Qb3dlciI6WyIqIl0sIiRzY29wZSI6Imh0dHA6Ly9waWNvc2VjLm9yZy9UcmlhbDYifQ==": {
+    "id": "RjBEAiBPeC4JfTYCZ2MMhXhH5r6Qy5Zl/OzU2GWV/b1LdyDe7gIgZEvIhOhVPCn3Xlsr5sRLNg+91TFKyqKHJ9PyT/CtZZFhMTQzMTM1NzM4MjYzNwoxNDMxMzU3OTgyNjM3CjM4NzMyNTAwCnsiRU1PTi1UWC1Qb3dlciI6WyIqIl0sIiRzY29wZSI6Imh0dHA6Ly9waWNvc2VjLm9yZy9UcmlhbDYifQ==",
+    "shortId": "RjBEAiBPeC4JfTYCZ2MMhXhH5r6Qy5Zl/OzU2GWV/b1LdyDe7gIgZEvIhOhVPCn3Xlsr5sRLNg+91TFKyqKHJ9PyT/CtZZEgMwul/W9q993rHIgRCGPY4TNpZPriQlkKP8SXVYwAJNE=",
+    "issued": 1431357382637,
+    "expires": 1431357982637,
+    "nonce": "38732500",
+    "capability": {
+      "scope": "http://picosec.org/Trial6",
+      "resources": {
+        "EMON-TX-Power": [
+          "*"
+        ]
+      }
+    },
+    "subject": "redirect #2"
+  },
+  "RjBEAiCgLAYQqgYu7zTiQOP6Pr8qj/A1bhiqI6bquf2DeKaWAAIgXUvDsK/67A9mVAhN+S8fHIBLbzbSE/WVc2mHU55qYiWAkzE0MzEzNTc2MzIyMTQKMTQzMTM1ODIzMjIxNAoxMjQzNzIxOAp7IkNPWklSLUNPMiI6WyJnZXQiXSwiQ09aSVItVGVtcGVyYXR1cmUiOlsiZ2V0Il0sIkVNT04tVFgtUG93ZXIiOlsiZ2V0Il0sIiRzY29wZSI6Imh0dHA6Ly9waWNvc2VjLm9yZy9UcmlhbDUifQ==": {
+    "id": "RjBEAiCgLAYQqgYu7zTiQOP6Pr8qj/A1bhiqI6bquf2DeKaWAAIgXUvDsK/67A9mVAhN+S8fHIBLbzbSE/WVc2mHU55qYiWAkzE0MzEzNTc2MzIyMTQKMTQzMTM1ODIzMjIxNAoxMjQzNzIxOAp7IkNPWklSLUNPMiI6WyJnZXQiXSwiQ09aSVItVGVtcGVyYXR1cmUiOlsiZ2V0Il0sIkVNT04tVFgtUG93ZXIiOlsiZ2V0Il0sIiRzY29wZSI6Imh0dHA6Ly9waWNvc2VjLm9yZy9UcmlhbDUifQ==",
+    "shortId": "RjBEAiCgLAYQqgYu7zTiQOP6Pr8qj/A1bhiqI6bquf2DeKaWAAIgXUvDsK/67A9mVAhN+S8fHIBLbzbSE/WVc2mHU55qYiUgUP4GovzvykyXvxsf8AXKsDF2H86sibDjOA+T0ZLGnjQ=",
+    "issued": 1431357632214,
+    "expires": 1431358232214,
+    "nonce": "12437218",
+    "capability": {
+      "scope": "http://picosec.org/Trial5",
+      "resources": {
+        "COZIR-CO2": [
+          "get"
+        ],
+        "COZIR-Temperature": [
+          "get"
+        ],
+        "EMON-TX-Power": [
+          "get"
+        ]
+      }
+    },
+    "subject": "power test"
+  },
+  "RjBEAiCDm1BryD3G2diWibdhMoLt9kfMd2DQwD5ZmQRFPnG68QIgL3dlLGZ9pVeR5oDl/3cjikfGeYQj01zcrWGdKBvpTYxlMTQzMTM2MzI4MjM1MgoxNDMxMzYzODgyMzUyCjQ4NDIyNjkxCnsiQ09aSVItQ08yIjpbImNhbGlicmF0ZSJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWw2In0=": {
+    "id": "RjBEAiCDm1BryD3G2diWibdhMoLt9kfMd2DQwD5ZmQRFPnG68QIgL3dlLGZ9pVeR5oDl/3cjikfGeYQj01zcrWGdKBvpTYxlMTQzMTM2MzI4MjM1MgoxNDMxMzYzODgyMzUyCjQ4NDIyNjkxCnsiQ09aSVItQ08yIjpbImNhbGlicmF0ZSJdLCIkc2NvcGUiOiJodHRwOi8vcGljb3NlYy5vcmcvVHJpYWw2In0=",
+    "shortId": "RjBEAiCDm1BryD3G2diWibdhMoLt9kfMd2DQwD5ZmQRFPnG68QIgL3dlLGZ9pVeR5oDl/3cjikfGeYQj01zcrWGdKBvpTYwg4CoMihOCb9WQlpu9yeQbPccbe7YLsTeOti+54YgS1VE=",
+    "issued": 1431363282352,
+    "expires": 1431363882352,
+    "nonce": "48422691",
+    "capability": {
+      "scope": "http://picosec.org/Trial6",
+      "resources": {
+        "COZIR-CO2": [
+          "calibrate"
+        ]
+      }
+    },
+    "subject": "github test"
+  }
+}

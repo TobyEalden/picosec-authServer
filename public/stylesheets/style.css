@@ -1,0 +1,49 @@
+body {
+  padding: 0;
+  margin: 0;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#picoHeader {
+    background-image: url(../images/pico-logo.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: 104px;
+}
+
+.picoHeader {
+    background-image: url(../images/pico-logo.png);
+    background-repeat: no-repeat;
+    height: 60px;
+    background-color: #ddd;
+    margin-bottom: 2px;
+}
+
+.picoHeaderTitle {
+    font-size: 1.2em;
+    font-weight: bold;
+    padding-left: 104px;
+    padding-top: 25px;
+}
+
+.pico-pane {
+    padding: 4px;
+}
+
+.optionalText {
+    display: block;
+    font-size: .8em;
+    font-weight: normal;
+}
+
+.capabilityForm {
+
+}
+
+.capabilityForm th {
+    text-align: left;
+}
