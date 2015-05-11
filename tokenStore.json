@@ -457,5 +457,37 @@
       }
     },
     "subject": "github test"
+  },
+  "RjBEAiDlfPH6qsZfqbT/zAuJAy2hf6Bj/EjO022+PHtQS8wKRwIgZggKoM8r6rHTYd9/WufBeiR6YChyDbn4/CNbT3Ypp4ljMTQzMTM3ODczNjExNAoxNDMxMzc5MzM2MTE0CjI0NjkxNTE5CnsiRU1PTi1UWC1Qb3dlciI6WyJnZXQiXSwiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsNiJ9": {
+    "id": "RjBEAiDlfPH6qsZfqbT/zAuJAy2hf6Bj/EjO022+PHtQS8wKRwIgZggKoM8r6rHTYd9/WufBeiR6YChyDbn4/CNbT3Ypp4ljMTQzMTM3ODczNjExNAoxNDMxMzc5MzM2MTE0CjI0NjkxNTE5CnsiRU1PTi1UWC1Qb3dlciI6WyJnZXQiXSwiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsNiJ9",
+    "shortId": "RjBEAiDlfPH6qsZfqbT/zAuJAy2hf6Bj/EjO022+PHtQS8wKRwIgZggKoM8r6rHTYd9/WufBeiR6YChyDbn4/CNbT3Ypp4kg1iFTKskfy/158UiDKn3ay/GfMnGxiokJLKRW56Zf8p4=",
+    "issued": 1431378736114,
+    "expires": 1431379336114,
+    "nonce": "24691519",
+    "capability": {
+      "scope": "http://picosec.org/Trial6",
+      "resources": {
+        "EMON-TX-Power": [
+          "get"
+        ]
+      }
+    },
+    "subject": "t123"
+  },
+  "RjBEAiAeZkurMLIsHRzQmDIUVqPlY0yKpva8sHCoSoVTFhkZGQIgk+V4r28nTFRbs3C4MXK4HMN7grce0Jzv/PtUkVUr7AVjMTQzMTM3OTY4Mzg0MgoxNDMxMzgwMjgzODQyCjU5OTIwOTQ5CnsiRU1PTi1UWC1Qb3dlciI6WyJnZXQiXSwiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsNiJ9": {
+    "id": "RjBEAiAeZkurMLIsHRzQmDIUVqPlY0yKpva8sHCoSoVTFhkZGQIgk+V4r28nTFRbs3C4MXK4HMN7grce0Jzv/PtUkVUr7AVjMTQzMTM3OTY4Mzg0MgoxNDMxMzgwMjgzODQyCjU5OTIwOTQ5CnsiRU1PTi1UWC1Qb3dlciI6WyJnZXQiXSwiJHNjb3BlIjoiaHR0cDovL3BpY29zZWMub3JnL1RyaWFsNiJ9",
+    "shortId": "RjBEAiAeZkurMLIsHRzQmDIUVqPlY0yKpva8sHCoSoVTFhkZGQIgk+V4r28nTFRbs3C4MXK4HMN7grce0Jzv/PtUkVUr7AUgPwBY6oofgvnP73QmqcR/vq6UQz1r+eWOt/E9A1Qb1lc=",
+    "issued": 1431379683842,
+    "expires": 1431380283842,
+    "nonce": "59920949",
+    "capability": {
+      "scope": "http://picosec.org/Trial6",
+      "resources": {
+        "EMON-TX-Power": [
+          "get"
+        ]
+      }
+    },
+    "subject": "T6 power"
   }
 }

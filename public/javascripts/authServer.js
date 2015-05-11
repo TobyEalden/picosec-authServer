@@ -145,6 +145,13 @@ webix.ready(function() {
         type: "space",
         cols: [
           {
+            header: "notifications",
+            collapsed: true,
+            body: {
+
+            }
+          },
+          {
             id: "capabilityTabBar",
             view:"tabview",
             tabbar: { optionWidth: 100},
