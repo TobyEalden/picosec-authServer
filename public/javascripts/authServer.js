@@ -148,7 +148,11 @@ webix.ready(function() {
             header: "notifications",
             collapsed: true,
             body: {
-
+              rows: [
+                { view: "label", template: "<div>nick allott requests access to file-system.read</div>" },
+                { view: "label", template: "<div>nick allott requests access to front-room.temperature</div>" },
+                {}
+              ]
             }
           },
           {
